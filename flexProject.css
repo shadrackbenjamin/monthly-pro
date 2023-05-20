@@ -1,0 +1,65 @@
+
+input{
+	border-color: gray;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	width: 50%;
+}
+
+a{
+	text-decoration: none;
+}
+
+.main_con{
+	display: flex;
+	flex-direction: column;
+	background-color: #99ebff;
+	height: 150vh;
+	width: 100%;
+	justify-content: space-around;
+	align-items: center;
+}
+
+
+.email_con{
+	height: 100px;
+	width: 400px;
+	background-color: white;
+	border: 0.5px solid #4ddbff;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+.name_con{
+	height: 100px;
+	width: 400px;
+	background-color: white;
+	border: 0.5px solid #4ddbff;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+.title_con{
+	display: flex;
+}
+
+.submit_con{
+	display: flex;
+	justify-items: center;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.progress_con{
+display: flex;
+justify-items: center;
+align-items: center;
+}
+
+.progress_bar{
+	height: 4px;
+	border-radius: 2px;
+	width: 150px;
+	background-color: green;
+}

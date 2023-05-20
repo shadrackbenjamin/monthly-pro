@@ -1,0 +1,32 @@
+
+.flag{display: flex;
+      align-items: center;
+      justify-content: center;
+
+     }
+.abs{float:right;width: 100px}
+
+.HZ{margin-right: 100px;}
+
+.footer{background-color: darkblue;
+        text-justify: auto; margin-top: 80px; margin-bottom: 20px; border: ;
+
+
+}
+
+
+
+body .a{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.flag{ image-orientation !important; }
+.Kenya{color: white;}
+.First{color: orangered;}
+h5{color: orangered;}
+h6{color: yellowgreen;}
+.cardt{font-family: sans-serif; text-align: center; font-size: 12px}
+h4{text-align: center; font-family: sans-serif; font-size: 20px}
+.card{ max-height: 350px; 
